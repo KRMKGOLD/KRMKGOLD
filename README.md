@@ -17,4 +17,4 @@
 </p>
 
 <h3 align="center">🛠 Recently Developed or Completed Projects</h3>
-<p align="center"><a href="">vlrggKr</a> : <a href="https://vlr.gg">vlr.gg</a> Android App (Unoffical)</p>
+<p align="center"><a href="https://github.com/KRMKGOLD/vlrggKr">vlrggKr</a> : <a href="https://vlr.gg">vlr.gg</a> Android App (Unoffical)</p>
