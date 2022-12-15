@@ -13,7 +13,7 @@
   <a><img alt="Git Tag" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp;
   <a><img alt="Github Tag" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a><br><br>
   <a><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=KRMKGOLD&show_icons=true"/></a><br>
-  <a><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRMKGOLD&layout=compact"/></a><br>
+  <a><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krmkgold&layout=compact"/></a><br>
 </p>
 
 <h3 align="center">🛠 Recently Developed or Completed Projects</h3>
