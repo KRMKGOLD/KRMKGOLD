@@ -1,6 +1,7 @@
 <h1 align="center">📌 Seongha Hong 🔥</h1>
 <p align="center">
-  <a href="https://velog.io/@dkqk0124"><img alt="Kotlin Tag" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://velog.io/@dkqk0124"><img alt="Velog Tag" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://haesom.dev"><img alt="Notion Tag" src="https://img.shields.io/badge/Notion Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100011798682469"><img alt="Facebook Tag" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%84%B1%ED%95%98-%ED%99%8D-a35590256/"><img alt="LinkedIn Tag" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </p>
