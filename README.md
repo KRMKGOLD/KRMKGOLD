@@ -4,6 +4,7 @@
   <a href="https://haesom.dev"><img alt="Tistory Tag" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100011798682469"><img alt="Facebook Tag" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%84%B1%ED%95%98-%ED%99%8D-a35590256/"><img alt="LinkedIn Tag" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://www.rallit.com/resumes/235084@dkqk0124/%ED%99%8D%EC%84%B1%ED%95%98"><img alt="RESUME TAG" src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=README&logoColor=white"/></a>
 </p>
 <p align="center"><b>I'm an Android Developer since 2020.</b></p>
 <h3 align="center">💼 Languages and Tools</h3>
